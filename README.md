@@ -1,7 +1,4 @@
-#Project:   Text messaging service where students can send a text asking when the next 
-#           assignment in a certain class is due and the student will receive an 
-#           appropriate response. Professors will be able to update class assignment 
-#           deadlines by sending out a text. 
+#Project:   Text messaging service where students can send a text asking when the next assignment in a certain class is due and the student will receive an appropriate response. Professors will be able to update class assignment deadlines by sending out a text. 
 
 #Questions:
 #1.	When would you use this application?
