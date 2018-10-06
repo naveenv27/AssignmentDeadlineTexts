@@ -13,13 +13,13 @@ will be able to update class assignment deadlines by sending out a text.
 7.	If you were a teacher/professor, what would be an incentive for you to use this application?
 8.	Would you want to receive all class assignments or just a certain class? 
 9.	Would you want a reminder text?
-10.As a professor what other capabilities would you like this application to have? 
+10. As a professor what other capabilities would you like this application to have? 
 
 
-#Question 1:
-#a.	Whenever I’m getting ready to work on assignments so I can find out when my assignments are
-#b.	When I’m thinking of whatever class I have the next day, I’ll use this
-#c.	When I want to know what assignments I have due that week 
+## Question 1:
+a.	Whenever I’m getting ready to work on assignments so I can find out when my assignments are
+b.	When I’m thinking of whatever class I have the next day, I’ll use this
+c.	When I want to know what assignments I have due that week 
 
 ## Question 2:
 a.	Once a day or once every other day, as many times as I have classes. 
@@ -46,13 +46,13 @@ a.	Yes, if a prof assigns an assignment I want to know that the assignment and i
 b.	Notifications would be nice. 
 c.	Having the option of receiving notifications for when a professor adds or edits an assignment deadline would be nice but u not necessary for this application
 
-##Question 7:
-#a.	To make sure my students turn in my assignments or have to fail them
-#b.	For teachers it’s a way to get info into to students in as easier way. I’m on my phone way more than I’m on Brightspace and this would be a better platform for communication and would allow for less excuses regarding missed assignments. 
-#c.	Some professors truly do care about their students and would start using this service if students request it
+## Question 7:
+a.	To make sure my students turn in my assignments or have to fail them
+b.	For teachers it’s a way to get info into to students in as easier way. I’m on my phone way more than I’m on Brightspace and this would be a better platform for communication and would allow for less excuses regarding missed assignments. 
+c.	Some professors truly do care about their students and would start using this service if students request it
 
-#Question 8:
-a.	Would like to have the option to do both 
+# Question 8:
+a.	Would like to have the option to do both \n
 b.	Just a certain class but with a later option to opt in class by class 
 c.	Just a certain class is enough, if I wanted to see more classes I could just more text messages. 
 
