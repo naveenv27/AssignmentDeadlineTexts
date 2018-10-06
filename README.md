@@ -59,6 +59,19 @@
 #c.	I can set reminders on Brightspace, I don’t really need this service to do that
 
 #Question 10:
-#a.	Would want to be able to remove assignments, and have the ability to distribute grades to students 
-#b.	If a prof wants to send out a reminder or announcement it could be kind of like the Alert VU thing where you can reply yes or no if you’ve seen the message. 
-#c.	The ability to remove assignments or just send out the latest announcements that students can receive over texts would also be nice.
+a.	Would want to be able to remove assignments, and have the ability to distribute grades to students 
+b.	If a prof wants to send out a reminder or announcement it could be kind of like the Alert VU thing where you can reply yes or no if you’ve seen the message. 
+c.	The ability to remove assignments or just send out the latest announcements that students can receive over texts would also be nice.
+
+
+#Requirements:
+
+
+## Objectives:
+1. Make assignment deadlines easily available to students.
+2. Students should be able to clearly see the deadline of the next assignment plus a short description of the assignment.
+3. Teachers should be able to update the upcoming assignment's deadline and description
+4. Application should be setup so that future functionality can be easily added
+
+## Functionality:
+1. Need to make sure data send by teacher is 
