@@ -1,0 +1,10 @@
+https://drive.google.com/open?id=187_0iKoMIwHwMtrnqjbl3wp5DhIMRKKl
+
+One of the screenshots is a teacher who is registering himself as a CS2201 instructor and
+then adding an assignment information and deadline. 
+The other screenshot is a student requesting info from this class. He/she will see
+whatever information the course instructor has added. 
+
+If you ask for a course that is not registered then you will get an error message. 
+If you enter in nothing after a command then you will be notified of this issue. 
+
